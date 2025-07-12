@@ -95,12 +95,13 @@ All implementation details are available in the `/docs` folder:
 
 ---
 
-## 💡 Future Improvements
+## 🔮 Planned Enhancements
 
-- 📊 Add monitoring & alerting using **CloudWatch**  
-- ☁️ Migrate to containerized workloads with **ECS** or **Elastic Beanstalk**  
-- 🔐 Manage secrets with **AWS Secrets Manager**  
-- 🧪 Add test coverage in CodeBuild (unit/integration)
+- 🏗️ Add Day 6: Infrastructure as Code (IaC) using AWS CloudFormation  
+- 📊 Enable monitoring and alerting with **CloudWatch**  
+- ☁️ Replace EC2 deployment with **ECS** or **Elastic Beanstalk**  
+- 🔐 Manage secrets securely using **AWS Secrets Manager**  
+- 🧪 Integrate unit and integration tests in CodeBuild  
 
 ---
 
